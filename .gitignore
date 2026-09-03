@@ -1,0 +1,10 @@
+# python cache files
+__pycache__/
+*.pyc
+
+# database
+db.sqlite3
+
+# media files
+media/
+.idea/
